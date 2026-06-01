@@ -1,0 +1,10 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1780293435" />
+    <testcase name="test_reset" classname="test_flip_flop" file="/Users/owenclarke/Documents/Projects/Parrot_Assignment_Owen_Clarke/Python_Test/test_flip_flop.py" lineno="25" time="0.0008137226104736328" sim_time_ns="10.0" ratio_time="12289.200117198945" />
+    <testcase name="test_d_captures_high" classname="test_flip_flop" file="/Users/owenclarke/Documents/Projects/Parrot_Assignment_Owen_Clarke/Python_Test/test_flip_flop.py" lineno="41" time="0.00032401084899902344" sim_time_ns="31.0" ratio_time="95675.80868285504" />
+    <testcase name="test_d_release_low" classname="test_flip_flop" file="/Users/owenclarke/Documents/Projects/Parrot_Assignment_Owen_Clarke/Python_Test/test_flip_flop.py" lineno="55" time="0.0002980232238769531" sim_time_ns="40.99999999999999" ratio_time="137573.17119999998" />
+    <testcase name="test_d_mid_cycle" classname="test_flip_flop" file="/Users/owenclarke/Documents/Projects/Parrot_Assignment_Owen_Clarke/Python_Test/test_flip_flop.py" lineno="72" time="0.00026798248291015625" sim_time_ns="35.0" ratio_time="130605.55160142349" />
+    <testcase name="test_toggle_sequence" classname="test_flip_flop" file="/Users/owenclarke/Documents/Projects/Parrot_Assignment_Owen_Clarke/Python_Test/test_flip_flop.py" lineno="90" time="0.0005466938018798828" sim_time_ns="100.99999999999999" ratio_time="184746.92716964672" />
+  </testsuite>
+</testsuites>
